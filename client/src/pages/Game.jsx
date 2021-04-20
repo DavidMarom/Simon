@@ -16,9 +16,6 @@ export const Game = () => {
 
 useEffect(() => {
 	
-	return () => {
-		
-	}
 }, [state])
 
 	return (
